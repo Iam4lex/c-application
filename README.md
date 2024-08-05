@@ -1,1 +1,1 @@
-# c-application
+Industrial training c# application.
